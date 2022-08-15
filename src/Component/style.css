@@ -1,0 +1,62 @@
+body{
+    background-color:saddlebrown;
+}
+
+ .header{
+    background-color:yellowgreen;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    border: 5px solid green;
+    border-radius: 30px;
+    align-items: center;
+  }
+  .header ul{
+    display: flex;
+    column-gap: 300px; 
+    list-style: none;  
+  }
+  .navLink{
+    text-decoration: none;
+    font-size: 30px;
+    color:wheat;
+    font-weight: bolder;
+    
+  }
+
+
+
+
+
+
+
+table {
+    border: 1px solid;
+    width: 70%;
+    margin:30px auto;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  th {
+    border: 1px solid;
+    height: 70px;
+    width: 30px;
+    color: black;
+    border: 2px solid black;
+    
+  }
+  td{
+    border: 1px solid;
+    width: 30%;
+    height: 40px;
+    text-align: center;
+    color: black;
+
+  }
+  h1{
+      text-align: center;
+      color:white;
+      font-size: 25px;
+  }
